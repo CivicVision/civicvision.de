@@ -1,0 +1,11 @@
+<div class="md:px-8 mt-12 md:mt-24 ">
+<div id="featured">
+  <div class="md:-mx-8 flex w-full flex-wrap">
+  {{ range sort (where $.Site.RegularPages "Section" (.Get 0)) ".Params.date" "desc" }}
+    {{ with .Params}}
+      {{ partial "portfolio-item-medium" . }}
+    {{ end }}
+  {{ end }}
+  </div>
+</div>
+</div>

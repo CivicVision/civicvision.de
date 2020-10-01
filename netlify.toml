@@ -4,3 +4,164 @@
   status = 301
   force = false
 
+[[redirects]]
+  from = "/sandiego-zoning-viz"
+  to = "https://civic.vision/sandiego-zoning-viz"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/sandiego-maps"
+  from="/sandiego-maps"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/legal/"
+  from="/legal"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/donor-retention/"
+  from="/donor-retention"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/civicstorytelling/"
+  from="/civicstorytelling"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/sandiego-zoning-viz/"
+  from="/sandiego-zoning-viz"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/blog/en/2015/06/23/convex-polygon-offset/"
+  from="/blog/en/2015/06/23/convex-polygon-offset"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/blog"
+  from="/blog"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/crime-san-diego/"
+  from="/crime-san-diego"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/mapping_in_d3/"
+  from="/mapping_in_d3"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/sandiego-maps/2017/01/31/housing-income/"
+  from="/sandiego-maps/2017/01/31/housing-income"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/sandiego-maps/2017/02/01/fatal-fifteen/"
+  from="/sandiego-maps/2017/02/01/fatal-fifteen"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/data-visualization/"
+  from="/data-visualization"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/code_enforcement_violations_sd/"
+  from="/code_enforcement_violations_sd"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/energy-production-germany/"
+  from="/energy-production-germany"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/betreuungsgeld/"
+  from="/betreuungsgeld"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/blog/en/2015/06/16/mapping-with-d3/"
+  from="/blog/en/2015/06/16/mapping-with-d3"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/vision-zero-dashboard/"
+  from="/vision-zero-dashboard"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/be-a-donor-yourself/"
+  from="/be-a-donor-yourself"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/de/resources/"
+  from="/de/resources"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/blog/de/2015/06/23/bisher-nur-auf-englisch/"
+  from="/blog/de/2015/06/23/bisher-nur-auf-englisch"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/de/blog/"
+  from="/de/blog"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/trinkwasser/"
+  from="/trinkwasser"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/f4goaws/"
+  from="/f4goaws"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/datapipeline/"
+  from="/datapipeline"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/legal/privacy/"
+  from="/legal/privacy"
+  status = 301
+  force = false
+
+[[redirects]]
+  to="https://civic.vision/resources/"
+  from="/resources"
+  status = 301
+  force = false
