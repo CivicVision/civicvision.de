@@ -1,7 +1,7 @@
 = content nav
   {{ partial "nav" . }}
 = content main
-  .font-sans.text-lg.text-grey-darkest.spaced-y-6
+  .font-sans.text-lg.text-gray-800.spaced-y-6
     {{.Content}}
     ul.list-reset.mt-16.spaced-y-8
       {{ range sort (.Pages) "Params.date" "desc" }}

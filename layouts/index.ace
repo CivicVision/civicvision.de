@@ -1,7 +1,7 @@
 = content language
   {{ partial "change-language" .}}
 = content main
-  .font-sans.text-lg.text-grey-darkest.spaced-y-6
+  .font-sans.text-lg.text-gray-800.spaced-y-6
     {{.Content}}
 = content footer
   {{ partial "footer" . }}

@@ -10,7 +10,7 @@
       {{ if .Params.technologies }}
       .text-xs Technologies: {{ delimit .Params.technologies ", " }}
       {{ end }}
-    .font-sans.text-lg.text-grey-darkest.spaced-y-6.leading-normal
+    .font-sans.text-lg.text-gray-800.spaced-y-6.leading-normal
       {{.Content}}
 
 = content footer

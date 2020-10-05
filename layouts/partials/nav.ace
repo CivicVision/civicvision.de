@@ -9,5 +9,5 @@ nav.font-sans.flex.flex-wrap.justify-start.items-center.my-4.overflow-hidden
     .text-sm.md:flex-grow
       {{ $currentPage := . }}
       {{ range .Site.Menus.main }}
-        a.block.mt-4.md:inline-block.md:mt-0.text-grey-darker.hover:text-grey-dark.mr-4 class="{{ if $currentPage.IsMenuCurrent "main" . }}underline{{else}}no-underline{{end}}" href="{{.URL}}" {{.Name}}
+        a.block.mt-4.md:inline-block.md:mt-0.text-gray-700.hover:text-gray-600.mr-4 class="{{ if $currentPage.IsMenuCurrent "main" . }}underline{{else}}no-underline{{end}}" href="{{.URL}}" {{.Name}}
       {{ end }}

@@ -9,6 +9,9 @@ module.exports = {
       colors: {
         cv : '#2b4c7e',
       },
+      height: {
+        '128': '32rem',
+      }
     },
   },
   variants: {},
